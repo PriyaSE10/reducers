@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  width: 50%;
+  height: 30vh;
+  margin:  auto;
+  border: 1px solid gray;
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+ 
+}
+.btn button{
+  padding: 15px ;
+  border-radius: 5px;
+  gap: 10px;
+  background-color: #61dafb;
+  color: #fff;
+}
